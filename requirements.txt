@@ -1,0 +1,6 @@
+numpy
+pillow
+sentence-transformers[image]>=6.1
+torch
+torchvision
+umap-learn

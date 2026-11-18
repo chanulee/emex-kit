@@ -1,0 +1,10 @@
+/input/*
+!/input/.gitkeep
+/dist/
+/raw/
+/.venv/
+/data.json
+/embeddings.npz
+/projects.json
+/index.html
+__pycache__/
